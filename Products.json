@@ -1,0 +1,27 @@
+[
+  {
+    "productCode": 1,
+    "productName": "Молоко",
+    "priceProduct": 65.5
+  },
+  {
+    "productCode": 2,
+    "productName": "Йогурт",
+    "priceProduct": 34.399999999999999
+  },
+  {
+    "productCode": 3,
+    "productName": "Сыр",
+    "priceProduct": 450
+  },
+  {
+    "productCode": 4,
+    "productName": "Сливки",
+    "priceProduct": 129
+  },
+  {
+    "productCode": 5,
+    "productName": "Творог",
+    "priceProduct": 70
+  }
+]
